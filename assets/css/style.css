@@ -3,9 +3,10 @@ html{
 }
 
 body{
-    background-image:  linear-gradient(rgba(26, 26, 26, 0.5),rgba(26, 26, 26, 0.5)), url("https://cdn.pixabay.com/photo/2018/02/26/21/01/cyprus-3184019_1280.jpg");
+    background-image:  linear-gradient(rgba(26, 26, 26, 0.5),rgba(26, 26, 26, 0.5)), url("../images/background-image.jpg");
     background-size: cover;
-    background-repeat: no-repeat;    
+    background-repeat: no-repeat;
+    
 }
 
 .container{
